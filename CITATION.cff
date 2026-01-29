@@ -6,7 +6,6 @@ abstract: "Reproducible walk-forward evaluation of price-only stock forecasting 
 authors:
   - family-names: "Sadykov"
     given-names: "Daler"
-    alias: "dalersadykov14"
 repository-code: "https://github.com/dalersadykov14/short-horizon-stock-forecasting"
 license: MIT
 keywords:
