@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific outputs
+outputs/logs/*
+outputs/plots/*
+outputs/tables/*
+# Keep the directories themselves
+!outputs/logs/.gitkeep
+!outputs/plots/.gitkeep
+!outputs/tables/.gitkeep
